@@ -1,7 +1,8 @@
 # Design-Patterns
-Design Patterns examples in C#.
+Design Pattern examples in C#.
 
 Solution constains:
 - Singleton Pattern
 - Factory Pattern
 - Strategy Pattern
+- Prototype Pattern
