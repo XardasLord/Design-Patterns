@@ -6,3 +6,4 @@ Solution constains:
 - Factory Pattern
 - Strategy Pattern
 - Prototype Pattern
+- Decorator Pattern
