@@ -8,3 +8,4 @@ Solution constains:
 - Prototype Pattern
 - Decorator Pattern
 - Flyweight Pattern
+- Builder Pattern
