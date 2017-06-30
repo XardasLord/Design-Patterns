@@ -7,3 +7,4 @@ Solution constains:
 - Strategy Pattern
 - Prototype Pattern
 - Decorator Pattern
+- Flyweight Pattern
