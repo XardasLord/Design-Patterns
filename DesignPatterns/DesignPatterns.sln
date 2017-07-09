@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.14
+VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{55CD88BD-B45B-4D9C-9F8E-D09C47F2CCAD}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{17B2E4BE-2513-452C-ACDE-CF9322D67DCE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder2", "Builder2\Builder2.csproj", "{720AEA48-5D93-45C3-94AA-2DD411C51109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{0882A00E-E779-4933-9971-4B3AAE27B1EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{720AEA48-5D93-45C3-94AA-2DD411C51109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{720AEA48-5D93-45C3-94AA-2DD411C51109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{720AEA48-5D93-45C3-94AA-2DD411C51109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0882A00E-E779-4933-9971-4B3AAE27B1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0882A00E-E779-4933-9971-4B3AAE27B1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0882A00E-E779-4933-9971-4B3AAE27B1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0882A00E-E779-4933-9971-4B3AAE27B1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
