@@ -2,10 +2,11 @@
 Design Pattern examples in C#.
 
 Solution constains:
-- Singleton Pattern
-- Factory Pattern
-- Strategy Pattern
-- Prototype Pattern
-- Decorator Pattern
-- Flyweight Pattern
 - Builder Pattern
+- Composite Pattern
+- Decorator Pattern
+- Factory Pattern
+- Flyweight Pattern
+- Prototype Pattern
+- Singleton Pattern
+- Strategy Pattern
