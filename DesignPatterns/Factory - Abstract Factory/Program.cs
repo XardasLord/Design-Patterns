@@ -7,7 +7,7 @@ namespace Factory
         static void Main(string[] args)
         {
             var machine = new HotDrinkMachine();
-            var drink = machine.MakeDrink(HotDrinkMachine.AvailableDrink.Tea, 100);
+            var drink = machine.MakeDrink();
             drink.Consume();
 
             Console.ReadLine();
