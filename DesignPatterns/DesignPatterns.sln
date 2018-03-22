@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype - IClonable", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype - Copy Constructors", "Prototype - Copy Constructors\Prototype - Copy Constructors.csproj", "{5BE9C310-2FAF-4AD8-90E8-EE18D5B142A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype - Explicit Deep Copy", "Prototype - Explicit Deep Copy\Prototype - Explicit Deep Copy.csproj", "{7E342B92-2741-41F8-A7BE-5904246A5B00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5BE9C310-2FAF-4AD8-90E8-EE18D5B142A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE9C310-2FAF-4AD8-90E8-EE18D5B142A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE9C310-2FAF-4AD8-90E8-EE18D5B142A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E342B92-2741-41F8-A7BE-5904246A5B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E342B92-2741-41F8-A7BE-5904246A5B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E342B92-2741-41F8-A7BE-5904246A5B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E342B92-2741-41F8-A7BE-5904246A5B00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
