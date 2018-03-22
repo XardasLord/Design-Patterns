@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Prototype
+namespace Prototype_Copy_Constructors
 {
-    class Address : ICloneable
+    class Address
     {
         public string StreetName;
         public int HouseNumber;
@@ -13,9 +13,10 @@ namespace Prototype
             HouseNumber = houseNumber;
         }
 
-        public object Clone()
+        public Address(Address other)
         {
-            return new Address(StreetName, HouseNumber);
+            StreetName = other.StreetName;
+            HouseNumber = other.HouseNumber;
         }
 
         public override string ToString()
@@ -24,5 +25,3 @@ namespace Prototype
         }
     }
 }
-
-
