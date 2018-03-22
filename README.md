@@ -10,6 +10,7 @@ Design Pattern examples in C#.
 - Prototype Pattern
   - IClonable (not recommended)
   - Copy Constructors (better than IClonable)
+  - Explicit Deep Copy (using our own generic interface - better than IClonable)
 - Composite Pattern
 - Decorator Pattern
 - Flyweight Pattern
