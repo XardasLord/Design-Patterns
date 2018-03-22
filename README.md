@@ -7,9 +7,10 @@ Design Pattern examples in C#.
 - Factory Pattern
   - Factory method
   - Abstract factory
+- Prototype Pattern
+  - IClonable (not recommended)
 - Composite Pattern
 - Decorator Pattern
 - Flyweight Pattern
-- Prototype Pattern
 - Singleton Pattern
 - Strategy Pattern
