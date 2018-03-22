@@ -11,6 +11,7 @@ Design Pattern examples in C#.
   - IClonable (not recommended)
   - Copy Constructors (better than IClonable)
   - Explicit Deep Copy (using our own generic interface - better than IClonable)
+  - Serialization (best way to deep copy objects)
 - Composite Pattern
 - Decorator Pattern
 - Flyweight Pattern
