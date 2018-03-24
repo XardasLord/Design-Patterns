@@ -1,7 +1,7 @@
 # Design-Patterns
-Design Pattern examples in C#.
+Many different Design Pattern examples with specific descriptions in C#.
 
-## Solution contains following design patterns:
+### Solution contains following design patterns:
 - **Builder**
   - Fluent Builder
 - **Factory**
@@ -19,3 +19,12 @@ Design Pattern examples in C#.
 - **Decorator**
 - **Flyweight**
 - **Strategy**
+
+# Motivation of using each of the design pattern:
+
+## Builder
+*When construction gets a little bit too complicated.*
+- object requires a lot of ceremony to create (object with 10 constructor parameters is not productive)
+- provides an API to for constructing an object step-by-step (e.g. fluent API)
+
+**Description is regularly updated**
