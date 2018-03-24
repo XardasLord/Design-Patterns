@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype - Serialization",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton2 - With Tests and DI", "Singleton2\Singleton2 - With Tests and DI.csproj", "{5352345F-6A5E-4CD5-9DF7-492EC11A110E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton - Monostate", "Singleton - Monostate\Singleton - Monostate.csproj", "{88AEEC61-A84E-4B04-84D0-A124DBDC86C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{5352345F-6A5E-4CD5-9DF7-492EC11A110E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5352345F-6A5E-4CD5-9DF7-492EC11A110E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5352345F-6A5E-4CD5-9DF7-492EC11A110E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AEEC61-A84E-4B04-84D0-A124DBDC86C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AEEC61-A84E-4B04-84D0-A124DBDC86C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AEEC61-A84E-4B04-84D0-A124DBDC86C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AEEC61-A84E-4B04-84D0-A124DBDC86C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
