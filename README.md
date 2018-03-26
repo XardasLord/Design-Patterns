@@ -3,6 +3,7 @@ Many different Design Pattern examples with specific descriptions in C#.
 
 ### Solution contains following design patterns:
 - **Adapter**
+- **Bridge**
 - **Builder**
   - Fluent Builder
 - **Factory**
@@ -51,4 +52,7 @@ Many different Design Pattern examples with specific descriptions in C#.
 ## Adapter
 *Getting the interface you want from the interface you have.*
 
+## Bridge
+*Connecting components together through abstraction.*
+- bridge prevents 'Cartesian products' complexity explosion
 **Description is regularly updated**
