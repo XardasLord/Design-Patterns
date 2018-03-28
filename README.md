@@ -9,6 +9,7 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Composite**
   - Geometric Shapes example
   - Neural Networks example
+- **Decorator**
 - **Factory**
   - Factory method
   - Abstract factory
@@ -20,7 +21,6 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Singleton**
   - Tests and Dependency Injection using the Singleton
   - Monostate
-- **Decorator**
 - **Flyweight**
 - **Strategy**
 
@@ -65,5 +65,15 @@ Many different Design Pattern examples with specific descriptions in C#.
   - A Grouping of shapes that consists of several shapes
 - this pattern is used to treat both single (scalar) and composite objects uniformly
   - E.g., Foo and Collection<Foo> have common APIs
+
+## Decorator
+*Adding behavior without altering the class itself.*
+- want to augment an object with additional functionality
+- do not want to rewrite or alter existing code (OCP)
+- want to keep new functionality separe (SRP)
+- need to be able to interact with existing structures
+- two options:
+  - Inherit from required object if possible (some object are sealed and you just can't)
+  - build a Decorator, which simply references the decorated object(s)
 
 **Description is regularly updated**
