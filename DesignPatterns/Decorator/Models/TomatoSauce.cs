@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Decorator.Models
+namespace Decorator_Pizza_Decorator.Models
 {
     public class TomatoSauce : ToppingDecorator
     {

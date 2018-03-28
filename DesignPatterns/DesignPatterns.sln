@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy2", "Strategy2\Stra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{3DF5CE1E-AB56-47D4-AC09-4CA319015582}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{08D5B2A9-72DF-478F-A51E-703777C7B17D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator - Pizza Decorator", "Decorator\Decorator - Pizza Decorator.csproj", "{08D5B2A9-72DF-478F-A51E-703777C7B17D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "Flyweight\Flyweight.csproj", "{B7FA4544-6627-458A-A6C5-B7521D5B39E3}"
 EndProject

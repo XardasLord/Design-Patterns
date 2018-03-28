@@ -1,7 +1,7 @@
-﻿using Decorator.Models;
+﻿using Decorator_Pizza_Decorator.Models;
 using System;
 
-namespace Decorator
+namespace Decorator_Pizza_Decorator
 {
     class Program
     {

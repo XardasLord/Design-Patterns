@@ -1,4 +1,4 @@
-﻿namespace Decorator.Models
+﻿namespace Decorator_Pizza_Decorator.Models
 {
     public interface IPizza
     {

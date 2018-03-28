@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{08D5B2A9-72DF-478F-A51E-703777C7B17D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Decorator</RootNamespace>
+    <RootNamespace>Decorator_Pizza_Decorator</RootNamespace>
     <AssemblyName>Decorator</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
