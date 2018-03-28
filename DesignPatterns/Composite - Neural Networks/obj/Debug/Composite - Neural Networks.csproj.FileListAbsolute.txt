@@ -1,0 +1,7 @@
+E:\Paweł\!!! Programowanie\Aplikacje\Design-Patterns\DesignPatterns\Composite - Neural Networks\bin\Debug\Composite - Neural Networks.exe.config
+E:\Paweł\!!! Programowanie\Aplikacje\Design-Patterns\DesignPatterns\Composite - Neural Networks\bin\Debug\Composite - Neural Networks.exe
+E:\Paweł\!!! Programowanie\Aplikacje\Design-Patterns\DesignPatterns\Composite - Neural Networks\bin\Debug\Composite - Neural Networks.pdb
+E:\Paweł\!!! Programowanie\Aplikacje\Design-Patterns\DesignPatterns\Composite - Neural Networks\obj\Debug\Composite - Neural Networks.csprojResolveAssemblyReference.cache
+E:\Paweł\!!! Programowanie\Aplikacje\Design-Patterns\DesignPatterns\Composite - Neural Networks\obj\Debug\Composite - Neural Networks.csproj.CoreCompileInputs.cache
+E:\Paweł\!!! Programowanie\Aplikacje\Design-Patterns\DesignPatterns\Composite - Neural Networks\obj\Debug\Composite - Neural Networks.exe
+E:\Paweł\!!! Programowanie\Aplikacje\Design-Patterns\DesignPatterns\Composite - Neural Networks\obj\Debug\Composite - Neural Networks.pdb
