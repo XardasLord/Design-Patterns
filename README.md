@@ -6,6 +6,9 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Bridge**
 - **Builder**
   - Fluent Builder
+- **Composite**
+  - Geometric Shapes example
+  - Neural Networks example
 - **Factory**
   - Factory method
   - Abstract factory
@@ -17,7 +20,6 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Singleton**
   - Tests and Dependency Injection using the Singleton
   - Monostate
-- **Composite**
 - **Decorator**
 - **Flyweight**
 - **Strategy**
@@ -55,4 +57,13 @@ Many different Design Pattern examples with specific descriptions in C#.
 ## Bridge
 *Connecting components together through abstraction.*
 - bridge prevents 'Cartesian products' complexity explosion
+
+## Composite
+*Treating individual and aggregate objects uniformly.*
+- composition lets us make compoind objects
+  - E.g., a mathematical expression composed of simple expressions; or
+  - A Grouping of shapes that consists of several shapes
+- this pattern is used to treat both single (scalar) and composite objects uniformly
+  - E.g., Foo and Collection<Foo> have common APIs
+
 **Description is regularly updated**
