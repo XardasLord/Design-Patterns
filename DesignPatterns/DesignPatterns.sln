@@ -21,8 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder2", "Builder2\Builder2.csproj", "{720AEA48-5D93-45C3-94AA-2DD411C51109}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{0882A00E-E779-4933-9971-4B3AAE27B1EA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder - Fluent Builder", "Builder3\Builder - Fluent Builder.csproj", "{D2ADEAAC-6722-4F5A-808C-361AD7CAD801}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory - Factory Method", "Factory2\Factory - Factory Method.csproj", "{7EA683DE-4E51-4D98-AAA9-F4FBD697E837}"
@@ -87,10 +85,6 @@ Global
 		{720AEA48-5D93-45C3-94AA-2DD411C51109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{720AEA48-5D93-45C3-94AA-2DD411C51109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{720AEA48-5D93-45C3-94AA-2DD411C51109}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0882A00E-E779-4933-9971-4B3AAE27B1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0882A00E-E779-4933-9971-4B3AAE27B1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0882A00E-E779-4933-9971-4B3AAE27B1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0882A00E-E779-4933-9971-4B3AAE27B1EA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D2ADEAAC-6722-4F5A-808C-361AD7CAD801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D2ADEAAC-6722-4F5A-808C-361AD7CAD801}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2ADEAAC-6722-4F5A-808C-361AD7CAD801}.Release|Any CPU.ActiveCfg = Release|Any CPU
