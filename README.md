@@ -17,6 +17,8 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Façade**
   - [External MdxConsole (a console written in Managed DirectX)](https://github.com/ActiveMesa/MdxConsole)
 - **Flyweight**
+  - Repeating User Names
+  - Text Formatting
 - **Prototype**
   - IClonable (not recommended)
   - Copy Constructors (better than IClonable)
