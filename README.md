@@ -14,6 +14,7 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Factory**
   - Factory method
   - Abstract factory
+- **Façade**
 - **Prototype**
   - IClonable (not recommended)
   - Copy Constructors (better than IClonable)
@@ -76,5 +77,8 @@ Many different Design Pattern examples with specific descriptions in C#.
 - two options:
   - Inherit from required object if possible (some object are sealed and you just can't)
   - build a Decorator, which simply references the decorated object(s)
+
+## Façade
+*Exposing several components through a single interface. Provides a simple, easy to understand/user interface over a large and sophisticated body of code.*
 
 **Description is regularly updated**
