@@ -16,6 +16,7 @@ Many different Design Pattern examples with specific descriptions in C#.
   - Abstract factory
 - **Façade**
   - [External MdxConsole (a console written in Managed DirectX)](https://github.com/ActiveMesa/MdxConsole)
+- **Flyweight**
 - **Prototype**
   - IClonable (not recommended)
   - Copy Constructors (better than IClonable)
@@ -81,5 +82,17 @@ Many different Design Pattern examples with specific descriptions in C#.
 
 ## Façade
 *Exposing several components through a single interface. Provides a simple, easy to understand/user interface over a large and sophisticated body of code.*
+
+## Flyweight
+*A space optimization technique that lets us use less memory by storing externally the data associated with similar objects.*
+- Avoid redundancy when storing data
+- E.g., MMORPG game
+  - Plenty of users with identical first/last names
+  - No sense in storing same first/last name over and over again
+  - Store a list of names and pointers to them
+- .NET performs string interning, so an identical string is stored only once (because string are immutable)
+- E.g., bold or italic text in the console
+  - Don't want each character to have a formatting character
+  - Operate on ranges (e.g., line number, start/end positions)
 
 **Description is regularly updated**
