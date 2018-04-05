@@ -15,6 +15,7 @@ Many different Design Pattern examples with specific descriptions in C#.
   - Factory method
   - Abstract factory
 - **Façade**
+  - [External MdxConsole (a console written in Managed DirectX)](https://github.com/ActiveMesa/MdxConsole)
 - **Prototype**
   - IClonable (not recommended)
   - Copy Constructors (better than IClonable)
