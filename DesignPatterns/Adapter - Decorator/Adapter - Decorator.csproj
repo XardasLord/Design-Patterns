@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{23604DE2-3F9C-4618-BAA8-B5C5FE1AF5E5}</ProjectGuid>
+    <ProjectGuid>{9F2C8912-6068-4D94-8A73-6DB95944F5D1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Decorator___Custom_String_Builder</RootNamespace>
-    <AssemblyName>Decorator - Custom String Builder</AssemblyName>
+    <RootNamespace>Adapter___Decorator</RootNamespace>
+    <AssemblyName>Adapter - Decorator</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CodeBuilder.cs" />
+    <Compile Include="MyStringBuilder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
