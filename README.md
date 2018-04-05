@@ -10,6 +10,7 @@ Many different Design Pattern examples with specific descriptions in C#.
   - Geometric Shapes example
   - Neural Networks example
 - **Decorator**
+  - Decorator-Adapter
 - **Factory**
   - Factory method
   - Abstract factory
