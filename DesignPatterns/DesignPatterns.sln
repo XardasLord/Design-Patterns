@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight - Repeating User 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight - Text Formatting", "Flyweight - Text Formatting\Flyweight - Text Formatting.csproj", "{AC5584A4-DF88-41B5-86DB-178CF8698150}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy - Dynamic", "Strategy - Dynamic\Strategy - Dynamic.csproj", "{D9304B01-E63A-4BDF-95FA-2FCD1FAC2300}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{AC5584A4-DF88-41B5-86DB-178CF8698150}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC5584A4-DF88-41B5-86DB-178CF8698150}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC5584A4-DF88-41B5-86DB-178CF8698150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9304B01-E63A-4BDF-95FA-2FCD1FAC2300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9304B01-E63A-4BDF-95FA-2FCD1FAC2300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9304B01-E63A-4BDF-95FA-2FCD1FAC2300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9304B01-E63A-4BDF-95FA-2FCD1FAC2300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
