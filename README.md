@@ -6,6 +6,8 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Bridge**
 - **Builder**
   - Fluent Builder
+- **Command**
+  - With Undo Operations
 - **Composite**
   - Geometric Shapes example
   - Neural Networks example
@@ -101,5 +103,8 @@ Many different Design Pattern examples with specific descriptions in C#.
   
 ## Strategy
 *Enables the exact behavior of a system to be selected either at run-time (dynamic) or compile-time (static).*
+
+## Command
+*An object which represents an instruction to perform a particular action. Contains all the information necessary for the action to be taken.*
 
 **Description is regularly updated**
