@@ -29,6 +29,8 @@ Many different Design Pattern examples with specific descriptions in C#.
   - Monostate
 - **Flyweight**
 - **Strategy**
+  - Dynamic (at runtime)
+  - Static (at compile time)
 
 # Motivation of using each of the design pattern:
 
@@ -96,5 +98,8 @@ Many different Design Pattern examples with specific descriptions in C#.
 - E.g., bold or italic text in the console
   - Don't want each character to have a formatting character
   - Operate on ranges (e.g., line number, start/end positions)
+  
+## Strategy
+*Enables the exact behavior of a system to be selected either at run-time (dynamic) or compile-time (static).*
 
 **Description is regularly updated**
