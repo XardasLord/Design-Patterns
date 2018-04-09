@@ -55,7 +55,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight - Repeating User 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight - Text Formatting", "Flyweight - Text Formatting\Flyweight - Text Formatting.csproj", "{AC5584A4-DF88-41B5-86DB-178CF8698150}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy - Dynamic", "Strategy - Dynamic\Strategy - Dynamic.csproj", "{D9304B01-E63A-4BDF-95FA-2FCD1FAC2300}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy - Dynamic And Static", "Strategy - Dynamic\Strategy - Dynamic And Static.csproj", "{D9304B01-E63A-4BDF-95FA-2FCD1FAC2300}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
