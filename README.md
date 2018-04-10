@@ -21,6 +21,7 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Flyweight**
   - Repeating User Names
   - Text Formatting
+- **Null Object**
 - **Prototype**
   - IClonable (not recommended)
   - Copy Constructors (better than IClonable)
@@ -29,7 +30,6 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Singleton**
   - Tests and Dependency Injection using the Singleton
   - Monostate
-- **Flyweight**
 - **Strategy**
   - Dynamic (at runtime)
   - Static (at compile time)
@@ -106,5 +106,16 @@ Many different Design Pattern examples with specific descriptions in C#.
 
 ## Command
 *An object which represents an instruction to perform a particular action. Contains all the information necessary for the action to be taken.*
+
+## Null Object
+*An object which represents an instruction to perform a particular action. Contains all the information necessary for the action to be taken.*
+- To implement this pattern you have to:
+  - Implement the required interface
+  - Rewrite the methods with empty bodied
+    - If methods is non-void, return `default<T>`
+    - If these values are ever used, you are in trouble
+  - Supply an instance of Null Object in place of actual object
+  - Dynamic construction possible
+    - With associated performance implications
 
 **Description is regularly updated**
