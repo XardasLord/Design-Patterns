@@ -33,6 +33,8 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Strategy**
   - Dynamic (at runtime)
   - Static (at compile time)
+- **Template Method**
+
 
 # Motivation of using each of the design pattern:
 
@@ -117,5 +119,16 @@ Many different Design Pattern examples with specific descriptions in C#.
   - Supply an instance of Null Object in place of actual object
   - Dynamic construction possible
     - With associated performance implications
+    
+## Template Method
+*Allows us to define the 'skeleton' of the algorithm, with concrete implementations defined in subclasses*
+- Algorithm can be decomposed into commont parts + specifics
+- Strategy pattern does this throught composition
+  - High-level algorithm uses an interface
+  - Concrete implementations implement the interface
+- Template Method does the same thing through inheritance
+  - Overall algorithm makes use of abstract member
+  - Inheritors override the abstract members
+  - Parent template method invoked
 
 **Description is regularly updated**
