@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy - Dynamic And Stat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command - Undo Operations", "Command\Command - Undo Operations.csproj", "{B9562FE4-2293-4F44-B294-CF35A87FC931}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Null Object", "Null Object\Null Object.csproj", "{2FF148DC-BCEF-4815-90C3-5C06AF1E68B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{B9562FE4-2293-4F44-B294-CF35A87FC931}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9562FE4-2293-4F44-B294-CF35A87FC931}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9562FE4-2293-4F44-B294-CF35A87FC931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF148DC-BCEF-4815-90C3-5C06AF1E68B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF148DC-BCEF-4815-90C3-5C06AF1E68B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF148DC-BCEF-4815-90C3-5C06AF1E68B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF148DC-BCEF-4815-90C3-5C06AF1E68B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
