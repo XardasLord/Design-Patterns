@@ -21,6 +21,9 @@ Many different Design Pattern examples with specific descriptions in C#.
 - **Flyweight**
   - Repeating User Names
   - Text Formatting
+- **Mediator**
+  - Chat Room
+  - Event Broker
 - **Null Object**
 - **Prototype**
   - IClonable (not recommended)
@@ -121,7 +124,7 @@ Many different Design Pattern examples with specific descriptions in C#.
     - With associated performance implications
     
 ## Template Method
-*Allows us to define the 'skeleton' of the algorithm, with concrete implementations defined in subclasses*
+*Allows us to define the 'skeleton' of the algorithm, with concrete implementations defined in subclasses.*
 - Algorithm can be decomposed into commont parts + specifics
 - Strategy pattern does this throught composition
   - High-level algorithm uses an interface
@@ -130,5 +133,14 @@ Many different Design Pattern examples with specific descriptions in C#.
   - Overall algorithm makes use of abstract member
   - Inheritors override the abstract members
   - Parent template method invoked
+  
+## Mediator
+*Facilitates communication between components.*
+- Components may go in and out of a system at any time
+  - Chat room participants
+  - Players in an MMORPG game
+- It makes no sense for them to have direct references to one another
+  - Those references may go dead
+- Solution: have then all refer to some central component that facilitates communication (that component happens to be the mediator).
 
 **Description is regularly updated**
