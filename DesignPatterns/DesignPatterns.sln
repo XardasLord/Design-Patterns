@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template Method", "Template
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator - Chat Room", "Mediator\Mediator - Chat Room.csproj", "{BC1D2130-0F59-4512-80F9-6FAD82215623}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory - Factory Method - Animals", "Factory - Factory Method - Animals\Factory - Factory Method - Animals.csproj", "{3760C068-FB96-498B-A792-20D9618E6159}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{BC1D2130-0F59-4512-80F9-6FAD82215623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC1D2130-0F59-4512-80F9-6FAD82215623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC1D2130-0F59-4512-80F9-6FAD82215623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3760C068-FB96-498B-A792-20D9618E6159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3760C068-FB96-498B-A792-20D9618E6159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3760C068-FB96-498B-A792-20D9618E6159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3760C068-FB96-498B-A792-20D9618E6159}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
